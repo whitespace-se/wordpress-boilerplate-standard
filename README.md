@@ -1,12 +1,12 @@
-# Municipio Standard Boilerplate
+# Wordpress Standard Boilerplate
 
-Boilerplate for a standard setup of Wordpress with Municipio
+Boilerplate for a standard setup of Wordpress
 
 ## How to install
 
 1. Create project with Composer
    ```bash
-   composer create-project municipio/municipio-boilerplate-standard <folder>
+   composer create-project whitespace-se/wordpress-boilerplate-standard <folder>
    ```
 2. Update package name, author and description in _composer.json_ and
    _package.json_.
