@@ -1,7 +1,7 @@
 {
   "name": "whitespace-se/wordpress-boilerplate-standard",
   "type": "project",
-  "license": "MIT",
+  "license": "AGPL-3.0-or-later",
   "description": "Boilerplate for a standard setup of Wordpress",
   "authors": [
     {
